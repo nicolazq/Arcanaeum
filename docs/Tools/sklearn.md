@@ -5,8 +5,8 @@
 
 ## LinearRegression
 
-- <https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares/>
-- <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html/>
+- <https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html>
 
 ## LogisticRegression
 
