@@ -5,6 +5,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - content.code.copy
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - toc:
