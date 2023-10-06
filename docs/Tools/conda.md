@@ -11,8 +11,3 @@ jupyter lab
 conda deactivate
 conda remove --name ENV_NAME --all
 ```
-
-``` sh
-conda deactivate
-conda remove --name ENV_NAME --all
-```
