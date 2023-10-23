@@ -27,4 +27,4 @@ git config --global user.name
 git config --global user.email
 ```
 
-https://stackoverflow.com/questions/7773181/git-keeps-prompting-me-for-a-password
+[Git keeps prompting me for a password](https://stackoverflow.com/questions/7773181/git-keeps-prompting-me-for-a-password)

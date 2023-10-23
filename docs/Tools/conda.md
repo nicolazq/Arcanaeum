@@ -21,3 +21,7 @@ pip install jupyterlab
 ```
 jupyter lab
 ```
+
+### Apple Silicon
+
+[Deep Learning on the M1 Pro with Apple Silicon](https://wandb.ai/tcapelle/apple_m1_pro/reports/Deep-Learning-on-the-M1-Pro-with-Apple-Silicon---VmlldzoxMjQ0NjY3)
